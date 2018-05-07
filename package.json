@@ -1,8 +1,8 @@
 {
-  "name": "entanmo-js",
+  "name": "etm-js",
   "version": "1.0.0",
   "description": "entanmo javascript library",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "build": "browserify build.js -o browserify-entanmo.js && uglifyjs browserify-entanmo.js > browserify-entanmo-min.js"
   },
