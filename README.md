@@ -4,7 +4,7 @@ English | [简体中文](./README.zh-CN.md)
 <div align="center">
 
 [![License](https://img.shields.io/badge/license-MIT-yellow.svg?style=flat)]()
-[![Author](https://img.shields.io/badge/platform-entanmo-blue.svg?style=flat)]()
+[![Author](https://img.shields.io/badge/author-entanmo-blue.svg?style=flat)]()
 
 </div>   
 
